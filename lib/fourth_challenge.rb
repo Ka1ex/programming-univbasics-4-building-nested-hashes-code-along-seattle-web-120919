@@ -13,7 +13,11 @@ def fourth_challenge
         { 
           :name => "Mercutio",
           :age => "18",
+<<<<<<< HEAD
           :attitude => "hot-headed"
+=======
+          :attitude = "hot-headed"
+>>>>>>> a7477cb1ccec4d2c4cac714954e48fd947c434a6
       }]
    }, 
    :capulet => {
@@ -27,12 +31,21 @@ def fourth_challenge
         :age => "30",
         :attitude => "confused"},
         {
+<<<<<<< HEAD
           :name => "Nurse",
           :age => "44",
           :attitude => "worried"
         }
       ]
    }
+=======
+          :name => "Nurse"
+          :age => "44",
+          :attitude => "worried"
+        }
+      }]
+  
+>>>>>>> a7477cb1ccec4d2c4cac714954e48fd947c434a6
 }
 
   

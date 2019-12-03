@@ -32,7 +32,11 @@ def third_challenge
         },
       :heroine => {
         #your key/value pairs here
+<<<<<<< HEAD
         :name => "Juliet",
+=======
+        :name => "Juliett",
+>>>>>>> a7477cb1ccec4d2c4cac714954e48fd947c434a6
         :age => "15",
         :status => "alive"
         },
